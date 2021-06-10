@@ -1,0 +1,34 @@
+﻿@page
+@model WebAssignment1.Pages.IntroModel
+@{
+    ViewData["Title"] = "Intro Page";
+
+}
+
+<h3>Aakash Sadnani</h3>
+
+<form method="get">
+    <div>Enter the Input 1 Number:</div>
+    <div>
+        <input name="InputNumber1" type="number" step="1" value="@Model.InputNumber1" />
+    </div>
+    <div>Enter the Input 2 Number:</div>
+    <div>
+        <input name="InputNumber2" type="number" step="1" value="@Model.InputNumber2" />
+    </div>
+    <br />
+    <div>
+        <input name="Submit" type="submit" />
+
+    </div>
+
+</form>
+
+<div>Output of Calculator is:</div>
+<output>@Model.result</output>
+
+
+@section NewSection {
+    <p>Hi! I am Aakash Sadnani. Cambrian College Student.</p>
+}
+
