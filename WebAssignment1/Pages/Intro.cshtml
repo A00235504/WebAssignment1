@@ -1,29 +1,29 @@
 ﻿    @page
     @model WebAssignment1.Pages.IntroModel
     @{
-        //Defining the page title for intro page
+        @*Defining the page title for intro page*@
         ViewData["Title"] = "Intro Page";
 
     }
-    //This is the Heading tag for Page title
+    @*This is the Heading tag for Page title*@
     <h3>Aakash Sadnani</h3>
 
-    //Creating a simple form with 2 inputs and submit button
+    @*Creating a simple form with 2 inputs and submit button*@
     <form method="get">
-        //Form Input element 1
+        @*Form Input element 1*@
         <div>Enter the Input 1 Number:</div>
         <div>
             <input name="InputNumber1" type="number" step="1" value="@Model.InputNumber1" />
         </div>
 
-        //Form Input element 2
+        @*Form Input element 2*@
         <div>Enter the Input 2 Number:</div>
         <div>
             <input name="InputNumber2" type="number" step="1" value="@Model.InputNumber2" />
         </div>
         <br />
 
-        //Form Submit Button
+        @*Form Submit Button*@
         <div>
             <input name="Submit" type="submit" />
 
@@ -31,11 +31,11 @@
 
     </form>
 
-        //Form Output displayed
+        @*Form Output displayed*@
     <div>Output of Calculator is:</div>
     <output>@Model.result</output>
 
-        //Creating a section with paragraph
+        @*Creating a section with paragraph*@
     @section NewSection {
         <p>Hi! I am Aakash Sadnani. Cambrian College Student. This is a paragraph Text enclosed in Paragraph Tags.</p>
     }
