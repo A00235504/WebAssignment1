@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/WebAssignment1/WebAssignment1/WebAssignment1.csproj": {}
+    "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/Assignment1/WebAssignment1/WebAssignment1/WebAssignment1.csproj": {}
   },
   "projects": {
-    "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/WebAssignment1/WebAssignment1/WebAssignment1.csproj": {
+    "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/Assignment1/WebAssignment1/WebAssignment1/WebAssignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/WebAssignment1/WebAssignment1/WebAssignment1.csproj",
+        "projectUniqueName": "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/Assignment1/WebAssignment1/WebAssignment1/WebAssignment1.csproj",
         "projectName": "WebAssignment1",
-        "projectPath": "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/WebAssignment1/WebAssignment1/WebAssignment1.csproj",
+        "projectPath": "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/Assignment1/WebAssignment1/WebAssignment1/WebAssignment1.csproj",
         "packagesPath": "/Users/aakashsadnani/.nuget/packages/",
-        "outputPath": "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/WebAssignment1/WebAssignment1/obj/",
+        "outputPath": "/Users/aakashsadnani/College docs and projects/Web Course/Assignments/Assignment1/WebAssignment1/WebAssignment1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aakashsadnani/.config/NuGet/NuGet.Config"
