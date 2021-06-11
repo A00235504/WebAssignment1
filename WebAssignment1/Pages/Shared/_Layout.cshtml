@@ -24,6 +24,7 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
                         </li>
+                        //A new Page link added called Intro and its in the nav bar
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Intro">Intro</a>
                         </li>
@@ -48,6 +49,7 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
+    //New sections are defined here
     @await RenderSectionAsync("Scripts", required: false)
     @await RenderSectionAsync("NewSection", required: false)
 </body>
