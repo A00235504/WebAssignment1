@@ -1,7 +1,9 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E0CC079F-B88B-4888-A4BE-7BA0DB30C66A}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="WebAssignment1/Pages/Intro.cshtml" Line="32" Column="111" />
+      <File FileName="WebAssignment1/Pages/Intro.cshtml" Line="42" Column="5" />
+      <File FileName="WebAssignment1/Pages/Intro.cshtml.cs" Line="36" Column="2" />
+      <File FileName="WebAssignment1/Pages/Shared/_Layout.cshtml" Line="54" Column="61" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,6 +11,7 @@
           <Node name="WebAssignment1" expanded="True">
             <Node name="WebAssignment1" expanded="True">
               <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
                 <Node name="Intro.cshtml" expanded="True" selected="True" />
               </Node>
             </Node>
